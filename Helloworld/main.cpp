@@ -14,5 +14,6 @@ int main(int argc, const char * argv[]) {
     cout << "Hello, World!\n";
     cout << "test" <<endl;
     cout << "test few versions";
+    cout << "test github";
     return 0;
 }
